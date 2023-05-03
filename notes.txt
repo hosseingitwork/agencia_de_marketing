@@ -1,0 +1,9 @@
+1.enter terminal app
+2.open a powershell window
+3.python -m virtual env (-m -> module)
+4. ./env/Scripts/activate
+	4.1 look for long-term support release Django version
+5. install dependencies
+6. django-admin startproject core . (. -> create in this path)
+7. make requirements.txt file:
+	then pip install -r requirements.txt
